@@ -1,1 +1,1 @@
-# garis
+# membuat garis dengan algoritma
